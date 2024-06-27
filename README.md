@@ -6,8 +6,8 @@ This is short game that I worked on in my free time. It is called Cube Runner an
 
 # Credits
 This game uses these sounds from freesound:
-pulo7.mp3 by filippys -- https://freesound.org/s/656905/ -- License: Creative Commons 0
-bonk.mp3 by Gavin6049 -- https://freesound.org/s/621145/ -- License: Attribution 3.0
-Retro Coin Collect by DrMinky -- https://freesound.org/s/166184/ -- License: Attribution 4.0
-Peaceful Ambiance Theme 2 by TheoJT -- https://freesound.org/s/569865/ -- License: Attribution 4.0
+pulo7.mp3 by filippys -- https://freesound.org/s/656905/ -- License: Creative Commons 0  <br />
+bonk.mp3 by Gavin6049 -- https://freesound.org/s/621145/ -- License: Attribution 3.0  <br />
+Retro Coin Collect by DrMinky -- https://freesound.org/s/166184/ -- License: Attribution 4.0  <br />
+Peaceful Ambiance Theme 2 by TheoJT -- https://freesound.org/s/569865/ -- License: Attribution 4.0  <br />
 The rain falls against the parasol by straget -- https://freesound.org/s/531947/ -- License: Attribution 4.0

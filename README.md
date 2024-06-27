@@ -5,7 +5,7 @@ This is short game that I worked on in my free time. It is called Cube Runner an
 
 
 # Credits
-This game uses these sounds from freesound:
+This game uses these sounds from freesound:  <br />
 pulo7.mp3 by filippys -- https://freesound.org/s/656905/ -- License: Creative Commons 0  <br />
 bonk.mp3 by Gavin6049 -- https://freesound.org/s/621145/ -- License: Attribution 3.0  <br />
 Retro Coin Collect by DrMinky -- https://freesound.org/s/166184/ -- License: Attribution 4.0  <br />
